@@ -41,7 +41,7 @@ parent;child;name_en;name_nl
 31;40;Tables;Tabellen
 40;41;Frequency table;Frequentietabel
 40;42;Contingency table;Contingentietabel
-1;43;Inferential Statistics;Inferenti‘le Statistiek
+1;43;Inferential Statistics;InferentiÃ«le Statistiek
 43;44;Sampling Distributions;Steekproevenverdelingen
 44;45;Sample mean;Steekproefgemiddelde
 44;46;Sample proportion;Steekproefproportie
@@ -68,7 +68,7 @@ parent;child;name_en;name_nl
 43;67;Effect size;Effectgrootte
 67;68;Cohen's d;Cohen's d
 67;69;Cramer's V;Cramer's V
-67;70;Phi coefficient;Phi-co‘ffici‘nt
+67;70;Phi coefficient;Phi-coâ€˜fficiâ€˜nt
 67;71;Eta squared;Eta kwadraat
 67;72;Omega squared;Omega kwadraat
 43;73;Confidence Intervals;Betrouwbaarheidsintervallen
@@ -78,12 +78,12 @@ parent;child;name_en;name_nl
 73;77;Margin of error;Foutmarge
 43;78;Parametric Techniques;Parametrische technieken
 78;79;z-test;z-toets
-79;80;One sample mean;EŽn steekproefgemiddelde
+79;80;One sample mean;EÃ©n steekproefgemiddelde
 79;81;Independent samples means;Onafhankelijke steekproefgemiddelden
-79;82;One proportion;EŽn proportie
+79;82;One proportion;EÃ©n proportie
 79;83;Two proportions;Twee proporties
 78;84;t-test;t-toets
-84;85;One sample mean;EŽn steekproefgemiddelde
+84;85;One sample mean;EÃ©n steekproefgemiddelde
 84;86;Independent samples means;Onafhankelijke steekproefgemiddelden
 84;87;Paired samples;Gepaard steekproeven
 84;88;Test for correlation;Correlatietoets
@@ -110,7 +110,7 @@ parent;child;name_en;name_nl
 100;109;ANOVA F-test;ANOVA F-toets
 100;110;Post-hoc test;Post-hoc toets
 78;111;Variance;Variantie
-111;112;One variance;EŽn variantie
+111;112;One variance;EÃ©n variantie
 111;113;Two variances;Twee varianties
 43;114;Regression;Regressie
 114;115;Simple linear regression;Eenvoudige lineaire regressie
@@ -123,11 +123,11 @@ parent;child;name_en;name_nl
 114;122;Regression F-test;Regressie F-toets
 114;123;R squared;R kwadraat
 114;124;Standard error of the estimate;Standaardfout van de schatting
-114;125;Standardized coefficient;Gestandaardiseerde co‘ffici‘nt
+114;125;Standardized coefficient;Gestandaardiseerde coÃ«fficiÃ«nt
 114;126;Dummies;Dummyvariabelen
 114;127;Confidence interval;Betrouwbaarheidsinterval
 114;128;Prediction interval;Voorspellingsinterval
-114;129;Coefficient t-test;Co‘ffici‘nt t-toets
+114;129;Coefficient t-test;CoÃ«fficiÃ«nt t-toets
 114;130;Multiple linear regression;Meervoudige lineaire regressie
 130;131;F-test for comparing (nested) models;F-toets voor geneste modellen
 130;132;R squared change;Verandering in R kwadraat
